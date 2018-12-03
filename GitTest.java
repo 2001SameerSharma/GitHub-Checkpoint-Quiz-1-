@@ -15,7 +15,9 @@ public String toString(){
 	return test;
 }
 
-
+public void setString(String test){
+	this.test = test;
+}
 
 
 
