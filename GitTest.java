@@ -6,7 +6,7 @@ public GitTest(){
 
 }
 
-public String GitTest(){
+public String toString(){
 	return test;
 }
 
