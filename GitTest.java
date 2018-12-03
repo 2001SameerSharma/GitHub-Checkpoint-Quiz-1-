@@ -6,6 +6,11 @@ public GitTest(){
 
 }
 
+public String GitTest(){
+	return test;
+}
+
+
 
 
 
